@@ -1,4 +1,4 @@
-I also uploaded to codesandbox so you can see it here: https://codesandbox.io/s/github/jengerred/FormikForm
+I uploaded to codesandbox so you can see it here: https://codesandbox.io/s/github/jengerred/FormikForm
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
