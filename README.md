@@ -1,4 +1,4 @@
-### * I uploaded to codesandbox so you can see it here: https://codesandbox.io/s/github/jengerred/FormikForm *
+### * I uploaded to codesandbox so you can see it here: https://codesandbox.io/s/github/jengerred/FormikForm - Or - to see it live click here: https://jensformikform.netlify.app/
 
 # Getting Started with Create React App
 
