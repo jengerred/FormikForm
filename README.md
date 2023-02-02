@@ -1,6 +1,7 @@
-##### --Copy and paste links to view--
-### View it live here: ( https://jensformikform.netlify.app/ )
-### View it on codesandbox here: ( https://codesandbox.io/s/github/jengerred/FormikForm )
+### View it live here: 
+[netlify](https://jensformikform.netlify.app/)
+### View it on codesandbox here: 
+[codesandbox](https://codesandbox.io/s/github/jengerred/FormikForm)
 
 
 # Getting Started with Create React App
