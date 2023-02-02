@@ -2,6 +2,8 @@
 [netlify](https://jensformikform.netlify.app/)
 ### View it on codesandbox here: 
 [codesandbox](https://codesandbox.io/s/github/jengerred/FormikForm)
+### Read my Readme.md here:
+[Readme.md](readme.md)
 
 
 # Getting Started with Create React App
