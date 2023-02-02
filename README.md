@@ -3,7 +3,7 @@
 ### View it on codesandbox here: 
 [codesandbox](https://codesandbox.io/s/github/jengerred/FormikForm)
 ### Read my Readme.md here:
-[Readme.md](readme.md)
+[Readme.md](https://github.com/jengerred/FormikForm/blob/main/readme.md)
 
 
 # Getting Started with Create React App
