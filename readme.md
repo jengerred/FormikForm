@@ -4,7 +4,7 @@
 This project was an assignment for the MIT XPRO course. We were given some files and code to work with and were instructed to create form using Formik . The form must have an email as username and both fields cannot be empty. It is a basic sign in with username and password. 
 
 ## How to Run:  
-Go to the README.MD page to implement React
+Go to the [README.MD](https://github.com/jengerred/FormikForm/blob/main/README.md) page to implement React
 - or - view it on codesandbox here: [codesandbox](https://codesandbox.io/s/github/jengerred/FormikForm) 
 - or - to see it live click here: [netlify](https://jensformikform.netlify.app/)
 
